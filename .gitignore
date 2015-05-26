@@ -1,0 +1,18 @@
+#Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+#DEBUG
+proj.win32/Debug.win32/*
+!proj.win32/Debug.win32/COMPILATION_PATH
+proj.win32/SRW_Like_Game.sdf
+proj.win32/SRW_Like_Game.opensdf
+
+#Cocos2d-x Engine
+cocos2d/*
+!cocos2d/COCOS2D_ENGINE_PATH
+
+#Resources
+Resources/*
+!Resources/RESOURCES_PATH
